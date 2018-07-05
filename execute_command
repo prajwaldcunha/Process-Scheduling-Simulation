@@ -1,0 +1,4 @@
+ g++ -c *.cpp && g++ *.o -o a.out -lGL -lGLU -lglut 
+
+ 
+ ./a.out
